@@ -12,6 +12,6 @@ iPhone のショートカットアプリで、タイムトラッキングを作�
 
 　　IFERROR(SUMIF(種類."トレーニング", Timesheet::時間), 0) <BR>
  上記を以下のように変更 <BR>
-  　IFERROR(SUMIF(種類."ここを対応した項目名に帰る", Timesheet::時間), 0) <BR>
+　　IFERROR(SUMIF(種類."ここを対応した項目名に帰る", Timesheet::時間), 0) <BR>
  
 以上です。
